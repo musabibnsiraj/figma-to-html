@@ -1,8 +1,8 @@
 # Figma-to-html
 Figma to HTML for web design course.
 
-#Figma
+# Figma
 https://www.figma.com/downloads
 
-##For Windows
+## For Windows
 https://www.figma.com/download/desktop/win
