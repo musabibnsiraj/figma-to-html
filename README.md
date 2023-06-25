@@ -4,5 +4,5 @@ Figma to HTML for webdesign
 # Figma
 https://www.figma.com/downloads
 
-## For Windows
+## For windows
 https://www.figma.com/download/desktop/win
