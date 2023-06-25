@@ -1,4 +1,4 @@
-# Figma-to-html
+# Figma TO HTML
 Figma to HTML for webdesign
 
 # Figma
