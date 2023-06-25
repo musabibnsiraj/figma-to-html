@@ -1,5 +1,5 @@
 # Figma-to-html
-Figma to HTML for web design course.
+Figma to HTML for webdesign
 
 # Figma
 https://www.figma.com/downloads
