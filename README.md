@@ -12,3 +12,9 @@ https://www.figma.com/download/desktop/win
 
 ## Google Fonts
 https://fonts.google.com/
+
+### PSD to HTML
+https://docs.google.com/document/d/1e4ioaw3tezzdI1tr0JzIOwb7bWnmhwn3KH0oVJgDdIs/edit#heading=h.xeie6wgyul1e
+https://docs.google.com/document/d/1NNaLCPFZsIpmYT5mVCtucpG0KmDK_CLSOWBguP92yi4/edit
+https://drive.google.com/drive/folders/1TpXIhK5J-bEXC9lUbv_LdWIAaJ9D_I7y?usp=sharing
+
