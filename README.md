@@ -7,8 +7,8 @@ Figma to HTML is a process of converting a design created in Figma into HTML cod
 # Figma
 https://www.figma.com/downloads
 
-  ## For windows
-    https://www.figma.com/download/desktop/win
+## For windows
+https://www.figma.com/download/desktop/win
 
 ## Google Fonts
 https://fonts.google.com/
