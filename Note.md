@@ -19,6 +19,9 @@ Vector vs Raster Graphics - GeeksforGeeks ](https://vector-conversions.com/vecto
 How to create .ico favicon with Photoshop - Template Monster Help 
 https://convertico.com/ ](https://www.icoconverter.com/)
 
+### Fontawsome
+[index.html ](https://drive.google.com/file/d/1c6xbLEIZ6lwiVD4vc4Nd-lAAlvyiIqfF/view?usp=sharing)
+
 ## PSD to HTML
 https://docs.google.com/document/d/1e4ioaw3tezzdI1tr0JzIOwb7bWnmhwn3KH0oVJgDdIs/edit#heading=h.xeie6wgyul1e
 https://docs.google.com/document/d/1NNaLCPFZsIpmYT5mVCtucpG0KmDK_CLSOWBguP92yi4/edit
