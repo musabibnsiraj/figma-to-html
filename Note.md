@@ -20,6 +20,7 @@ How to create .ico favicon with Photoshop - Template Monster Help
 https://convertico.com/ ](https://www.icoconverter.com/)
 
 ### Fontawsome
+https://fontawesome.com/search?m=free&o=r
 [index.html ](https://drive.google.com/file/d/1c6xbLEIZ6lwiVD4vc4Nd-lAAlvyiIqfF/view?usp=sharing)
 
 ## PSD to HTML
