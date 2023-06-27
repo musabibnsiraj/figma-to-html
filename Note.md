@@ -2,7 +2,7 @@
 https://www.remove.bg/ 
 
 
-## Loader GIF
+## Prw Loader
 https://loading.io
 
 ## Vector & Raster
