@@ -3,10 +3,7 @@ https://www.remove.bg/
 
 
 ## Loader GIF
-https://loading.io/ 
-Create Your Own Animated Pre-loader in Photoshop 
-loader gif.psd
-
+https://loading.io
 
 ## Vector & Raster
 Raster (Bitmap) vs Vector 
