@@ -20,4 +20,7 @@ https://www.youtube.com/playlist?list=PL0-e1OMq5RP4BIrTQPrqu6Jxsfp94xK8Z
 ### PSD TO HTML
 https://docs.google.com/document/d/1e4ioaw3tezzdI1tr0JzIOwb7bWnmhwn3KH0oVJgDdIs/edit
 
+#### Resposive 
+https://www.w3schools.com/html/html_responsive.asp
+
 
