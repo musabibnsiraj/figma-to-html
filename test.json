@@ -1,0 +1,60 @@
+{
+    "message": "Success",
+    "data": [
+        {
+            "imageUrl": "https://seasons-abaya.com/storage/items/664c744abe805.jpg",
+            "title": "Golden Dubai Abaya",
+            "desc": "Elegant golden abaya with intricate embroidery.",
+            "price": 99.99,
+            "ingredient": [
+                "Premium fabric",
+                "Golden thread embroidery",
+                "Traditional Dubai design"
+            ]
+        },
+        {
+            "imageUrl": "https://seasons-abaya.com/storage/items/664c73b39b6b8.jpg",
+            "title": "Black Pearl Abaya",
+            "desc": "Luxurious black abaya with pearl embellishments.",
+            "price": 129.99,
+            "ingredient": [
+                "Silk fabric",
+                "Pearl embellishments",
+                "Handcrafted by Dubai artisans"
+            ]
+        },
+        {
+            "imageUrl": "https://seasons-abaya.com/storage/items/664c73aedc101.jpg",
+            "title": "Dubai Desert Rose Abaya",
+            "desc": "Flowing abaya inspired by the colors of the desert rose.",
+            "price": 79.99,
+            "ingredient": [
+                "Lightweight chiffon fabric",
+                "Desert rose color palette",
+                "Comfortable and stylish"
+            ]
+        },
+        {
+            "imageUrl": "https://seasons-abaya.com/storage/items/664c72b5855d7.jpg",
+            "title": "Arabian Nights Abaya",
+            "desc": "Exquisite abaya featuring intricate arabesque patterns.",
+            "price": 149.99,
+            "ingredient": [
+                "Velvet fabric",
+                "Intricate arabesque embroidery",
+                "Inspired by Arabian folklore"
+            ]
+        },
+        {
+            "imageUrl": "https://seasons-abaya.com/storage/items/664c7272dea2e.jpg",
+            "title": "Dubai Skyline Abaya",
+            "desc": "Modern abaya showcasing the iconic Dubai skyline.",
+            "price": 109.99,
+            "ingredient": [
+                "Georgette fabric",
+                "Dubai skyline print",
+                "Contemporary design"
+            ]
+        }
+    ]
+}
